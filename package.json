@@ -21,8 +21,8 @@
     "lint": "prettier --write gatsby-node.js"
   },
   "dependencies": {
-    "firebase-admin": "8.10.0",
-    "gatsby-cli": "^2.11.6"
+    "firebase-admin": "10.0.0",
+    "gatsby-cli": "4.1.0"
   },
   "devDependencies": {
     "prettier": "^2.0.4"
